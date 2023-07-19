@@ -1,5 +1,5 @@
 FROM  centos:7
-MAINTAINER vikashashoke@gmail.com
+MAINTAINER vaibhav.1301.asundkar@gmail.com
 RUN yum install -y httpd \
  zip\
  unzip
@@ -13,7 +13,7 @@ EXPOSE 80 22
 
 
 # FROM  centos:latest
-# MAINTAINER vikashashoke@gmail.com
+# MAINTAINER vaibhav.1301.asundkar@gmail.com
 # RUN yum install -y httpd \
 #  zip\
 #  unzip
